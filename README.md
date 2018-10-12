@@ -1,6 +1,6 @@
 # WOTO Time
 
-### NOTE: This is a joke. Don't skip class.
+### NOTE: While this program is functional, this is intended as a joke. Don't skip class.
 
 Alerts you when Professor Astrachan has opened up a WOTO.
 
