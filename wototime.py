@@ -6,6 +6,11 @@ import configparser
 config = configparser.ConfigParser()
 config.read('config.ini')
 
+# Check if the user hasn't configured yet
+if config['GMAIL_CREDENTIALS']['email'] == 'example@gmail.com':
+    print('Please setup your information in the config.ini file!')
+    exit(1)
+
 EMAIL = config['GMAIL_CREDENTIALS']['email']
 PASS = config['GMAIL_CREDENTIALS']['pass']
 
