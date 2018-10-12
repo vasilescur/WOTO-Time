@@ -1,4 +1,4 @@
-# WOTO-Time
+# WOTO Time
 Alerts you when Professor Astrachan has opened up a WOTO.
 
 <img src="https://user-images.githubusercontent.com/10100323/46890495-0ce93a00-ce35-11e8-81c1-8a2940263245.jpg" alt="wototime" width="250"/>
