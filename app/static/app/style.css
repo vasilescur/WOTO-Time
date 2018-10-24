@@ -1,0 +1,26 @@
+html, body {
+    font-family: 'Arial', 'Helvetica'
+}
+
+body {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    margin: 0;
+}
+
+.main-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.main {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
