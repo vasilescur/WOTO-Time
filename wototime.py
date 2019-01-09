@@ -1,7 +1,7 @@
 import urllib.request
 import smtplib
 import configparser
-
+# Change
 # Read config data
 config = configparser.ConfigParser()
 config.read('config.ini')
@@ -75,5 +75,5 @@ while True:
 
                 send(NUMBER, 'WOTO TIME!')
                 send(NUMBER, woto['url'][14:])  #HACK: AT&T blocks links!
-                # The reason for splitting this string on 14: is to eliminate the 
+                # The reason for splitting this string on 14: is to eliminate the
                 # bit.ly part, thus making sure the link isn't blocked or screwed up.
