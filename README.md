@@ -21,7 +21,7 @@ So of course, being a computer scientist, my mission is to *automate algorithmic
 * Make sure you have Python 3 installed
 * Run `python wototime.py` or `python3 wototime.py`, whichever your computer uses for Python 3
 
-You'll need to provide your gmail email and password in order to get the SMS notifciations. No, I'm not stealing your password; read the code if you don't believe me.
+You'll need to provide your gmail email and password in order to get the SMS notifications. No, I'm not stealing your password; read the code if you don't believe me.
 
 ## Contributing
 
